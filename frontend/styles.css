@@ -1,0 +1,77 @@
+body{
+  background-image: url('images/c3i.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+.navigation a {
+  padding: 8px;
+}
+.login-box{
+  background-color: white;
+  align-self: auto;
+  width: auto;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 15%;
+  text-align: center;
+}
+.login-box input{
+  width: auto;
+}
+.login-box button{
+  margin-top: 8px;
+}
+.form-entry{
+  background-color: white;
+  text-align: center;
+  margin-top: 5%;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 5%;
+}
+.form-entry table{
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+#form-login {
+  margin-top: 10%;
+  margin-left: 30%;
+  margin-right: 30%;
+  padding: 18px;
+  background-color: white;
+}
+
+#search .search-form {
+  margin-top: 2.5%;
+  margin-left: 15%;
+  margin-right: 15%;
+  text-align: center;
+}
+
+#search .search-form input{
+  margin-top: 12px;
+}
+
+#search .search-form button{
+  margin: 12px;
+}
+
+#search .search-table {
+  margin-top: 36px;
+  margin-left: 15%;
+  margin-right: 15%;
+  background: white;
+}
+
+#plate-number {
+  margin: auto;
+  margin-top: 12px;
+}
+
+.form-entry{
+  margin-bottom: 10%;
+}
